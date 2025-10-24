@@ -40,5 +40,6 @@ Clean the dataset by handling missing values, duplicates, text inconsistencies, 
 To install the libraries:
 ```bash
 pip install pandas numpy
-
-
+```
+---
+*Created by Komal for the Data Analyst Internship Program.*
